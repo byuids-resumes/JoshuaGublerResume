@@ -7,7 +7,7 @@ title: Joshua Gubler's Resume
 
 <div id="webaddress">
 <a href="gub18002@byui.edu">gub18002@byui.edu</a>
-| <a href="https://www.linkedin.com/in/joshuagubler/">Data Science Program</a>
+| <a href="https://www.linkedin.com/in/joshuagubler/">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
