@@ -1,13 +1,13 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Joshua Gubler's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Joshua Gubler
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="gub18002@byui.edu">gub18002@byui.edu</a>
+| <a href="https://www.linkedin.com/in/joshuagubler/">Data Science Program</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
